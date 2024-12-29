@@ -13,6 +13,7 @@ int main()
 /* Definição da funcao fatorial */
 int calc_fat(int b)
 {
+    // ramo2
     long long int fatorial = 3;
     for (int contador = b; contador >= 1; contador--)
     {
